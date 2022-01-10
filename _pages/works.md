@@ -39,7 +39,7 @@ feature_row:
     title: "Edge of Eternity Japan Edition"
     excerpt: "Edge of Eternity ([© 2021 Plug In Digital](https://plugindigital.com/ )) game localization & release planning, including full Japanese voiceover work."
 feature_row2:
-- image_path: /assets/images/evolandgalleryicon.jpg
+  - image_path: /assets/images/evolandgalleryicon.jpg
     alt: "Evoland Legendary Collection"
     title: "Evoland Legendary Collection Japan Digital Edition"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
