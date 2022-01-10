@@ -9,22 +9,66 @@ defaults:
       layout: single
       author_profile: true
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
+  - url: /assets/images/cristalesgalleryicon.jpg
+    image_path: /assets/images/cristalesgalleryicon.jpg
+    alt: "Cris Tales"
+    title: "Cris Tales Japan Physical Edition"
+  - url: /assets/images/eoegalleryicon.jpg
+    image_path: /assets/images/eoegalleryicon.jpg
+    alt: "Edge of Eternity"
+    title: "Edge of Eternity Japan Edition"
+  - url: /assets/images/shantae7sirensgalleryicon.jpg
+    image_path: /assets/images/shantae7sirensgalleryicon.jpg
+    alt: "Shantae and the Seven Sirens"
+    title: "Shantae and the Seven Sirens Japan Edition"
+  - url: /assets/images/snowrunnergalleryicon.png
+    image_path: /assets/images/snowrunnergalleryicon.png
+    alt: "SnowRunner"
+    title: "SnowRunner Japan Edition"
+  - url: /assets/images/tfcgalleryicon.png
+    image_path: /assets/images/tfcgalleryicon.png
+    alt: "The Forgotten City"
+    title: "The Forgotten City Japan Edition"
+<!--  - url: /assets/images/unsplash-gallery-image-4.jpg
+    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
+    alt: "placeholder image 4"
+    title: "Image 4 title caption"
   - url: /assets/images/unsplash-gallery-image-4.jpg
     image_path: /assets/images/unsplash-gallery-image-4-th.jpg
     alt: "placeholder image 4"
     title: "Image 4 title caption"
+  - url: /assets/images/unsplash-gallery-image-4.jpg
+    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
+    alt: "placeholder image 4"
+    title: "Image 4 title caption"
+  - url: /assets/images/unsplash-gallery-image-4.jpg
+    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
+    alt: "placeholder image 4"
+    title: "Image 4 title caption"
+  - url: /assets/images/unsplash-gallery-image-4.jpg
+    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
+    alt: "placeholder image 4"
+    title: "Image 4 title caption"
+  - url: /assets/images/unsplash-gallery-image-4.jpg
+    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
+    alt: "placeholder image 4"
+    title: "Image 4 title caption"
+  - url: /assets/images/unsplash-gallery-image-4.jpg
+    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
+    alt: "placeholder image 4"
+    title: "Image 4 title caption"
+  - url: /assets/images/unsplash-gallery-image-4.jpg
+    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
+    alt: "placeholder image 4"
+    title: "Image 4 title caption"
+  - url: /assets/images/unsplash-gallery-image-4.jpg
+    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
+    alt: "placeholder image 4"
+    title: "Image 4 title caption"
+  - url: /assets/images/unsplash-gallery-image-4.jpg
+    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
+    alt: "placeholder image 4"
+    title: "Image 4 title caption" -->
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
