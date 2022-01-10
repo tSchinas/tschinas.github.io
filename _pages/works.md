@@ -40,13 +40,13 @@ feature_row:
     excerpt: "Edge of Eternity ([© 2021 Plug In Digital](https://plugindigital.com/ )) game localization & release planning, including full Japanese voiceover work."
 feature_row2:
 - image_path: /assets/images/evolandgalleryicon.jpg
-    # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "Evoland Legendary Collection"
     title: "Evoland Legendary Collection Japan Digital Edition"
-    # excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    # url: "#test-link"
-    # btn_label: "Read More"
-    # btn_class: "btn--primary"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/plaguetale1galleryicon.jpg
     alt: "placeholder image 2"
@@ -65,14 +65,14 @@ feature_row4:
     btn_class: "btn--primary"
 feature_row5:
   - image_path: /assets/images/snowrunnergalleryicon.jpg
-	alt: 
-	title: 
-	excerpt: 
+	alt: "placeholder"
+	title: "placeholder"
+	excerpt: "placeholder"
 feature_row6:
   - image_path: /assets/images/tfcgalleryicon.jpg
-	alt: 
-	title: 
-	excerpt: 
+	alt: "placeholder"
+	title: "placeholder"
+	excerpt: "placeholder"
 ---
 
 {% include feature_row id="intro" type="Right" %}
