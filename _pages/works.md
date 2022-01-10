@@ -29,46 +29,6 @@ gallery:
     image_path: /assets/images/tfcgalleryicon.png
     alt: "The Forgotten City"
     title: "The Forgotten City Japan Edition"
-<!--  - url: /assets/images/unsplash-gallery-image-4.jpg
-    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
-  - url: /assets/images/unsplash-gallery-image-4.jpg
-    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
-  - url: /assets/images/unsplash-gallery-image-4.jpg
-    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
-  - url: /assets/images/unsplash-gallery-image-4.jpg
-    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
-  - url: /assets/images/unsplash-gallery-image-4.jpg
-    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
-  - url: /assets/images/unsplash-gallery-image-4.jpg
-    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
-  - url: /assets/images/unsplash-gallery-image-4.jpg
-    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
-  - url: /assets/images/unsplash-gallery-image-4.jpg
-    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
-  - url: /assets/images/unsplash-gallery-image-4.jpg
-    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
-  - url: /assets/images/unsplash-gallery-image-4.jpg
-    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
-    alt: "placeholder image 4"
-    title: "Image 4 title caption" -->
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
