@@ -64,14 +64,14 @@ feature_row4:
     btn_class: "btn--primary"
 feature_row5:
   - image_path: /assets/images/snowrunnergalleryicon.jpg
-	alt: "placeholder"
-	title: "placeholder"
-	excerpt: "placeholder"
+    alt: "placeholder"
+    title: "placeholder"
+    excerpt: "placeholder"
 feature_row6:
   - image_path: /assets/images/tfcgalleryicon.jpg
-	alt: "placeholder"
-	title: "placeholder"
-	excerpt: "placeholder"
+    alt: "placeholder"
+    title: "placeholder"
+    excerpt: "placeholder"
 ---
 
 #{% include feature_row id="intro" type="right" %}
