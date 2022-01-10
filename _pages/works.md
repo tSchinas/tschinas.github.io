@@ -35,4 +35,4 @@ gallery1:
     title: "The Forgotten City Japan Edition"
 ---
 
-{% include gallery1 id="gallery1" layout="half" caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery1 layout="half" caption="This is a sample gallery with **Markdown support**." %}
