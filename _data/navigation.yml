@@ -1,4 +1,5 @@
 # main links
+# urls that are permalinks from YAML front matter in md must be enclosed in quotes
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
@@ -7,6 +8,6 @@ main:
   - title: "Works"
     url: "/works/"
   # - title: "Sample Collections"
-  #   url: /collection-archive/
+  #   url: "/collection-archive/"
   # - title: "Sitemap"
-  #   url: /sitemap/
+  #   url: "/sitemap/"
