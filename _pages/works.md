@@ -1,7 +1,7 @@
 ---
 permalink: /works/
 defaults:
-  # _pages
+   _pages
   - scope:
       path: ""
       type: pages
