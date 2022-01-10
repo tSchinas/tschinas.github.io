@@ -8,7 +8,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-gallery1:
+gallery:
   - url: /assets/images/eoegalleryicon.jpg
     image_path: /assets/images/eoegalleryicon.jpg
     alt: "Edge of Eternity"
@@ -35,4 +35,4 @@ gallery1:
     title: "The Forgotten City Japan Edition"
 ---
 
-{% include gallery1 layout="half" caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery layout="half" caption="This is a sample gallery with **Markdown support**." %}
