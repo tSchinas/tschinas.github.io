@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Thomas Schinas"
 title_separator          : " "
 subtitle                 : "Creative Localization Solutions" # site tagline that appears below site title in masthead
-name                     : "name"
+name                     : "Thomas Schinas"
 description              : "test description"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
