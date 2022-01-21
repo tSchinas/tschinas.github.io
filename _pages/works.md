@@ -3,7 +3,7 @@ title: "Works"
 layout: splash
 permalink: /works/
 intro: 
-  - excerpt: 'Welcome to my portfolio, where I feature some of my past projects and reflect upon what I've learned and what I might do differently were I to do it again!'
+  - excerpt: "Welcome to my portfolio! Here I feature some of my past projects and reflect upon what I've learned and what I might do differently were I to do it again."
 feature_row:
   - image_path: /assets/images/eoegalleryicon.jpg
     alt: "Edge of Eternity"
