@@ -6,9 +6,9 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: archive
+      layout: splash
       author_profile: true
-<link href="_archive.scss" rel="stylesheet">\_sass\minimal-mistakes\_archive.scss</link>
+
 feature_row:
   - image_path: /assets/images/eoegalleryicon.jpg
     alt: "Edge of Eternity"
