@@ -435,6 +435,11 @@
   .feature__item--center,
   .feature__item--right {
     font-size: 1em;
+    position: relative;
+    float: left;
+    margin-left: 15%;
+    margin-right: auto;
+    width: auto;
   }
 }
 
