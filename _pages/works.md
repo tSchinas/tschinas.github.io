@@ -6,7 +6,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: archive
       author_profile: true
 
 feature_row:
