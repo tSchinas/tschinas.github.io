@@ -52,6 +52,14 @@ feature_row6:
     url: "tfc"
     btn_label: "Read More"
     btn_class: "btn--info"
+feature_row7:
+  - image_path: /assets/images/memoriamisera.jpg
+    alt: "Memoria Misera"
+	title: "Memoria Misera:
+	excerpt: "Memoria Misera, an original game prototype developed in Unity by me."
+	url: "memoriamisera"
+	btn_label: "Read More"
+	btn_class: "btn--info"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -67,3 +75,5 @@ feature_row6:
 {% include feature_row id="feature_row5" type="right" %}
 
 {% include feature_row id="feature_row6" type="left" %}
+
+{% include feature_row id="feature_row7" type="right" %}
