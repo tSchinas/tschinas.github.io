@@ -3,7 +3,7 @@ title: "Localization"
 layout: splash
 permalink: /localizationworks/
 intro: 
-  - excerpt: "Welcome to my portfolio! Here I feature some of my past projects and reflect upon what I've learned and what I might do differently were I to do it again."
+  - excerpt: "Welcome to my localization portfolio! Here I feature some of my past projects and (will eventually add) my reflections on what I've learned and what I might do differently were I to do it again."
 feature_row:
   - image_path: /assets/images/eoegalleryicon.jpg
     alt: "Edge of Eternity"
@@ -52,14 +52,6 @@ feature_row6:
     url: "tfc"
     btn_label: "Read More"
     btn_class: "btn--info"
-feature_row7:
-  - image_path: /assets/images/memoriamisera.jpg
-    alt: "Memoria Misera"
-    title: "Memoria Misera"
-    excerpt: "Memoria Misera, an original game prototype developed in Unity by me."
-    url: "memoriamisera"
-    btn_label: "Read More"
-    btn_class: "btn--info"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -75,5 +67,3 @@ feature_row7:
 {% include feature_row id="feature_row5" type="right" %}
 
 {% include feature_row id="feature_row6" type="left" %}
-
-{% include feature_row id="feature_row7" type="right" %}
