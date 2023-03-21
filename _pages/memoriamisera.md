@@ -1,5 +1,5 @@
 ---
-permalink: /contact/
+permalink: /memoriamisera/
 defaults:
   # _pages
   - scope:
@@ -9,9 +9,7 @@ defaults:
       layout: single
       author_profile: true
 intro:
-  - excerpt: |
-  E-Mail\: tomschinas at gmail
-     TEL\: \+1 860 214 5757
+  - excerpt: "Under construction!"
 ---
 
 {% include feature_row id="intro" type="center" %}
