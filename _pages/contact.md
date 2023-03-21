@@ -9,8 +9,8 @@ defaults:
       layout: single
       author_profile: true
 intro:
-  - excerpt: |
-  E-Mail\: tomschinas at gmail
+  - excerpt: "E-mail: tomschinas at gmail"
+  
   
 ---
 
