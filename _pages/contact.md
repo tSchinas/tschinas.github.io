@@ -11,7 +11,7 @@ defaults:
 intro:
   - excerpt: |
   E-Mail\: tomschinas at gmail
-     TEL\: \+1 860 214 5757
+  
 ---
 
 {% include feature_row id="intro" type="center" %}
