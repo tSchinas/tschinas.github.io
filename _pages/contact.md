@@ -10,7 +10,7 @@ defaults:
       author_profile: true
 intro:
   - excerpt: "E-mail: tomschinas at gmail"
-  - excerpt: "TEL: +1 860 214 5757"
+   "TEL: +1 860 214 5757"
   
 ---
 
