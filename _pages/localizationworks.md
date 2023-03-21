@@ -1,7 +1,7 @@
 ---
-title: "Works"
+title: "Localization"
 layout: splash
-permalink: /works/
+permalink: /localizationworks/
 intro: 
   - excerpt: "Welcome to my portfolio! Here I feature some of my past projects and reflect upon what I've learned and what I might do differently were I to do it again."
 feature_row:
