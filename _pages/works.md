@@ -55,7 +55,7 @@ feature_row6:
 feature_row7:
   - image_path: /assets/images/memoriamisera.jpg
     alt: "Memoria Misera"
-    title: "Memoria Misera:
+    title: "Memoria Misera"
     excerpt: "Memoria Misera, an original game prototype developed in Unity by me."
     url: "memoriamisera"
     btn_label: "Read More"
