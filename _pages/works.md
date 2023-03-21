@@ -24,7 +24,7 @@ feature_row3:
   - image_path: /assets/images/plaguetale1galleryicon.jpg
     alt: "Plague Tale: Innocence"
     title: "Plague Tale: Innocence Japan PS5 Edition"
-    excerpt: "Plauge Tale: Innocence (© 2019 [Asobo Studio](https://www.asobostudio.com/ ) and [Focus Entertainment](https://www.focus-entmt.com/en-us )) last-minute first party product certification."
+    excerpt: "Plauge Tale: Innocence (© 2019 [Asobo Studio](https://www.asobostudio.com/ ) and [Focus Entertainment](https://www.focus-entmt.com/en-us )) last minute first party product certification."
     url: "ptinnocence"
     btn_label: "Read More"
     btn_class: "btn--info"
@@ -52,14 +52,6 @@ feature_row6:
     url: "tfc"
     btn_label: "Read More"
     btn_class: "btn--info"
-feature_row7:
-  - image_path: /assets/images/testsplash.png
-	alt: "Memoria Misera"
-	title: "Memoria Misera"
-	excerpt: "Memoria Misera, an original game prototype being developed in Unity."
-	url: "memoria-misera"
-	btn_label: "Read More"
-	btn_class: "btn--info"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -75,5 +67,3 @@ feature_row7:
 {% include feature_row id="feature_row5" type="right" %}
 
 {% include feature_row id="feature_row6" type="left" %}
-
-{% include feature_row id="feature_row7" type="right" %}
