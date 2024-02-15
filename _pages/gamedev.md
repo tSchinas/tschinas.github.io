@@ -12,7 +12,7 @@ feature_row:
     url: "memoriamisera"
     btn_label: "Read More"
     btn_class: "btn--info"
-feature_row:
+feature_row1:
   - image_path: /assets/images/summitsprint.jpg
     alt: "Summit Sprint"
     title: "Summit Sprint"
