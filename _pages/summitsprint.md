@@ -19,4 +19,4 @@ feature_row0:
 
 {% include feature_row id="intro" type="center" %}
 {% include feature_row id="intro2" type="center" %}
-{% include feature_row id="feature_row0" type="left" %}
+{% include feature_row id="feature_row0" type="left" align="justify" %}
