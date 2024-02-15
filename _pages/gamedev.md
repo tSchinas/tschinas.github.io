@@ -13,7 +13,7 @@ feature_row0:
     btn_label: "Read More"
     btn_class: "btn--info"
 feature_row1:
-  - image_path: /assets/images/summitsprint.jpg
+  - image_path: /assets/images/Summit_Sprint_Icon.png
     alt: "Summit Sprint"
     title: "Summit Sprint"
     excerpt: "Summit Sprint, an original touch input climbing game developed in Unity."

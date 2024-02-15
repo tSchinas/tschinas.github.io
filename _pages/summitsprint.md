@@ -9,7 +9,7 @@ defaults:
       layout: single
       author_profile: true
 intro:
-  - title: "SUMMIT SPRINT"
+  - image_path: /assets/images/Summit_Sprint_Logo.png
   - excerpt: "Summit Sprint is an original touch input climbing game developed in Unity<br/>as part of a large, interdisciplinary project completed at Futuregames."
 feature_row0:
   - title: "Systems Design"
