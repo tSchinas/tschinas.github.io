@@ -3,7 +3,7 @@ title: "Game Dev"
 layout: splash
 permalink: /gamedev/
 intro: 
-  - excerpt: "Welcome to my game dev portfolio!"
+  - excerpt: "<br/>Read about each of my game design projects."
 feature_row:
   - image_path: /assets/images/memoriamisera.jpg
     alt: "Memoria Misera"

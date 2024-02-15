@@ -3,7 +3,7 @@ title: "Localization"
 layout: splash
 permalink: /localizationworks/
 intro: 
-  - excerpt: "Welcome to my localization portfolio! Here I feature some of my past projects and (will eventually add) my reflections on what I've learned and what I might do differently were I to do it again."
+  - excerpt: "<br/>Welcome to my localization portfolio! Here I feature some of my past projects and (will eventually add) my reflections on what I've learned and what I might do differently were I to do it again."
 feature_row:
   - image_path: /assets/images/eoegalleryicon.jpg
     alt: "Edge of Eternity"
