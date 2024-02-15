@@ -4,11 +4,11 @@ layout: splash
 permalink: /gamedev/
 intro: 
   - excerpt: "<br/>Read about each of my game design projects."
-feature_row:
+feature_row0:
   - image_path: /assets/images/memoriamisera.jpg
     alt: "Memoria Misera"
     title: "Memoria Misera"
-    excerpt: "Memoria Misera, an original game prototype developed in Unity by me."
+    excerpt: "Memoria Misera, an original game prototype developed in Unity."
     url: "memoriamisera"
     btn_label: "Read More"
     btn_class: "btn--info"
@@ -16,7 +16,7 @@ feature_row1:
   - image_path: /assets/images/summitsprint.jpg
     alt: "Summit Sprint"
     title: "Summit Sprint"
-    excerpt: "Summit Sprint, an original touch input climbing game developed in Unity at Futuregames."
+    excerpt: "Summit Sprint, an original touch input climbing game developed in Unity."
     url: "summitsprint"
     btn_label: "Read More"
     btn_class: "btn--info"
@@ -24,6 +24,6 @@ feature_row1:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="feature_row" type="right"%}
+{% include feature_row id="feature_row1" type="right"%}
 
-{% include feature_row id="feature_row1" type="left"%}
+{% include feature_row id="feature_row0" type="left"%}
