@@ -3,7 +3,7 @@
 main:
   - title: "Game Dev"
     url: "/gamedev/"
-    subpages:
+  - subpages:
       - title: "Summit Sprint"
         url: "/summitsprint/"
       - title: "RoboRun"
