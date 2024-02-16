@@ -3,6 +3,13 @@
 main:
   - title: "Game Dev"
     url: "/gamedev/"
+    subpages:
+      - title: "Summit Sprint"
+        url: "/summitsprint/"
+      - title: "RoboRun"
+        url: "/roborun/"
+      - title: "Codename: Memoria"
+        url: "/memoria/"
   - title: "Loc & RM"
     url: "/localizationworks/"
   - title: "Contact"

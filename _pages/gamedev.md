@@ -22,10 +22,10 @@ feature_row2:
     btn_class: "btn--info"
 feature_row0:
   - image_path: /assets/images/memoriamisera.jpg
-    alt: "Memoria Misera"
-    title: "Memoria Misera"
-    excerpt: "Memoria Misera, an original game prototype developed in Unity."
-    url: "memoriamisera"
+    alt: "Codename: Memoria"
+    title: "Codename: Memoria"
+    excerpt: "Codename: Memoria, an original game prototype developed in Unity."
+    url: "memoria"
     btn_label: "Read More"
     btn_class: "btn--info"
 ---
