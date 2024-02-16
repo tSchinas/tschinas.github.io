@@ -4,14 +4,6 @@ layout: splash
 permalink: /gamedev/
 intro: 
   - excerpt: "<br/>Read about each of my game design projects."
-feature_row0:
-  - image_path: /assets/images/memoriamisera.jpg
-    alt: "Memoria Misera"
-    title: "Memoria Misera"
-    excerpt: "Memoria Misera, an original game prototype developed in Unity."
-    url: "memoriamisera"
-    btn_label: "Read More"
-    btn_class: "btn--info"
 feature_row1:
   - image_path: /assets/images/Summit_Sprint_Icon.png
     alt: "Summit Sprint"
@@ -26,6 +18,14 @@ feature_row2:
     title: "RoboRun"
     excerpt: "RoboRun, a post-apocalyptic runner game developed in Unity."
     url: "roborun"
+    btn_label: "Read More"
+    btn_class: "btn--info"
+feature_row0:
+  - image_path: /assets/images/memoriamisera.jpg
+    alt: "Memoria Misera"
+    title: "Memoria Misera"
+    excerpt: "Memoria Misera, an original game prototype developed in Unity."
+    url: "memoriamisera"
     btn_label: "Read More"
     btn_class: "btn--info"
 ---
