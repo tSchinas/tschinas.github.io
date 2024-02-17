@@ -18,16 +18,16 @@ feature_row0:
 feature_row1:
   - image_path: /assets/images/summitsprint1.png
     title: "<b>Chalking Up the Stamina System</b>"
-	excerpt: "lorem ipsum"
+    excerpt: "lorem ipsum"
 feature_row2:
   - image_path: /assets/images/summitsprint2.png
-	title: "<b>Other Systems</b>"
-	excerpt: "lorem ipsum"
+    title: "<b>Other Systems</b>"
+    excerpt: "lorem ipsum"
 ---
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row id="feature_row0" type="left" %}
 
-{% include feature_row id="feature_row1" type="center" %}
+{% include feature_row id="feature_row1" type="right" %}
 
-{% include feature_row id="feature_row2" type="right" %}
+{% include feature_row id="feature_row2" type="left" %}
