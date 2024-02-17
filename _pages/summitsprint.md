@@ -18,11 +18,11 @@ feature_row0:
 feature_row1:
   - image_path: /assets/images/summitsprint1.jpg
     title: "<b>Chalking Up the Stamina System</b>"
-	excerpt: " "
+	excerpt: "lorem ipsum"
 feature_row2:
   - image_path: /assets/images/summitsprint2.jpg
 	title: "<b>Other Systems</b>"
-	excerpt: " "
+	excerpt: "lorem ipsum"
 ---
 {% include feature_row id="intro" type="center" %}
 
