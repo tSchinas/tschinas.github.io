@@ -16,8 +16,8 @@ feature_row0:
     title: "<b>Systems Design</b>"
     excerpt: "<p align=justify>My main role on the project was that of system designer, a role I had yet to play. After the design team had decided upon the mechanics we wanted to include in the game, I began designing the underlying systems that would support those mechanics. The main system I will highlight here is the \"stamina\" system, which eventually would come to be called the chalk system.</p>"
 feature_row1:
-  - image_path: /assets/images/summitsprint1.png
-    title: "<b>Chalking Up the Stamina System</b>"
+  - title: "<b>Chalking Up the Stamina System</b>"
+    image_path: /assets/images/summitsprint1.png
     excerpt: "lorem ipsum"
 feature_row2:
   - image_path: /assets/images/summitsprint2.png
