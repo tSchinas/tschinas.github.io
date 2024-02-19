@@ -9,10 +9,8 @@ defaults:
       layout: single
       author_profile: true
 intro:
-  - url: "mailto:tomschinas@gmail.com"
-    excerpt: "Email me!"
-  - url: "https://www.linkedin.com/in/thomas-schinas-84353787/"
-    excerpt: "LinkedIn"
+  - excerpt: "[Email me!](mailto:tomschinas@gmail.com )"
+  - excerpt: "[LinkedIn](https://www.linkedin.com/in/thomas-schinas-84353787/ )"
 ---
 
 {% include feature_row id="intro" type="center" %}
