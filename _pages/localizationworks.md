@@ -9,7 +9,7 @@ feature_row:
     alt: "Edge of Eternity"
     title: "Edge of Eternity Japan Edition"
     excerpt: "Edge of Eternity (© 2021 [Plug In Digital](https://plugindigital.com/ )) game localization & release planning, including full Japanese voiceover work."
-<!-- url: "/eoe/"
+<!--url: "/eoe/"
     btn_label: "Read More"
     btn_class: "btn--info" -->
 feature_row2:
