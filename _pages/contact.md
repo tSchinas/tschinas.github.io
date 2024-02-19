@@ -9,8 +9,8 @@ defaults:
       layout: single
       author_profile: true
 intro:
-  - excerpt: "E-mail: tomschinas at gmail<br/>TEL: +1 860 214 5757"
-  
+  - url: "mailto:tomschinas@gmail.com"
+  - url: "https://www.linkedin.com/in/thomas-schinas-84353787/"
 ---
 
 {% include feature_row id="intro" type="center" %}
