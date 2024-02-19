@@ -1,6 +1,6 @@
 ---
 title: "Loc & RM"
-layout: single
+layout: splash
 permalink: /localizationworks/
 intro:
   - excerpt: "<br/>Here are a few of my past projects from my localization and release management days."
