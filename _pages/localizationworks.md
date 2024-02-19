@@ -1,6 +1,6 @@
 ---
 title: "Localization"
-layout: splash
+layout: compress
 permalink: /localizationworks/
 intro: 
   - excerpt: "<br/>Welcome to my localization portfolio! Here I feature some of my past projects and (will eventually add) my reflections on what I've learned and what I might do differently were I to do it again."
