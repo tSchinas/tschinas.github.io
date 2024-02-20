@@ -1,17 +1,9 @@
 # main links
 # urls that are permalinks from YAML front matter in md must be enclosed in quotes
 main:
-  - title: Game Dev
-    url: /gamedev
-    subpages:
-      - title: "Summit Sprint"
-        url: "/summitsprint/"
-      - title: "RoboRun"
-        url: "/roborun/"
-      - title: "Codename: Memoria"
-        url: "/memoria/"
-    
-  - title: "Loc & RM"
-    url: "/localizationworks/"
+  - title: Portfolio
+    url: /portfolio
+  - title: "Other Projects"
+    url: "/otherprojects/"
   - title: "Contact"
     url: "/contact/"

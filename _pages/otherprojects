@@ -1,9 +1,25 @@
 ---
-title: "Loc & RM"
+title: "Other Projects"
 layout: splash
-permalink: /localizationworks/
+permalink: /otherprojects/
 intro: 
-  - excerpt: "<br/>Here are a few of my past projects from my localization and release management days."
+  - excerpt: "<br/>Here are a few projects that I'm proud of but don't belong in my system design portfolio."
+feature_row1:
+  - image_path: /assets/images/roborun.png
+    alt: "RoboRun"
+    title: "RoboRun"
+    excerpt: "RoboRun, a post-apocalyptic runner game developed in Unity."
+    url: "roborun"
+    btn_label: "Read More"
+    btn_class: "btn--info"
+feature_row0:
+  - image_path: /assets/images/memoriamisera.jpg
+    alt: "Codename: Memoria"
+    title: "Codename: Memoria"
+    excerpt: "Codename: Memoria, an original game prototype developed in Unity."
+    url: "memoria"
+    btn_label: "Read More"
+    btn_class: "btn--info"
 feature_row:
   - image_path: /assets/images/eoegalleryicon.jpg
     alt: "Edge of Eternity"
@@ -56,14 +72,18 @@ feature_row6:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="feature_row" type="right"%}
+{% include feature_row id="feature_row1" type="left"%}
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row0" type="right"%}
 
-{% include feature_row id="feature_row3" type="right" %}
+{% include feature_row id="feature_row" type="left" %}
 
-{% include feature_row id="feature_row4" type="left" %}
+{% include feature_row id="feature_row2" type="right" %}
 
-{% include feature_row id="feature_row5" type="right" %}
+{% include feature_row id="feature_row3" type="left" %}
 
-{% include feature_row id="feature_row6" type="left" %}
+{% include feature_row id="feature_row4" type="right" %}
+
+{% include feature_row id="feature_row5" type="left" %}
+
+{% include feature_row id="feature_row6" type="right" %}
