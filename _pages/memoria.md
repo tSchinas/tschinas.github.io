@@ -1,5 +1,5 @@
 ---
-permalink: /memoriamisera/
+permalink: /memoria/
 defaults:
   # _pages
   - scope:
