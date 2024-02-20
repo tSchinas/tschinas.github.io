@@ -1,8 +1,8 @@
 # main links
 # urls that are permalinks from YAML front matter in md must be enclosed in quotes
 main:
-  - title: Portfolio
-    url: /portfolio
+  - title: "Portfolio"
+    url: "/portfolio/"
   - title: "Other Projects"
     url: "/otherprojects/"
   - title: "Contact"
