@@ -14,6 +14,6 @@ feature_row1:
     btn_class: "btn--info"
 ---
 
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="intro" type="right" %}
 
 {% include feature_row id="feature_row1" type="right"%}
