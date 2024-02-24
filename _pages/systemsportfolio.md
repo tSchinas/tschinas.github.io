@@ -2,7 +2,6 @@
 title: System Design Portfolio
 layout: single
 classes: wide
-permalink: /systemsportfolio/
 author_profile: true
 feature_row1:
   - image_path: /assets/images/Summit_Sprint_Icon.png
