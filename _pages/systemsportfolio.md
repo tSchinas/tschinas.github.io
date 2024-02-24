@@ -4,8 +4,6 @@ layout: single
 classes: wide
 permalink: /systemsportfolio/
 author_profile: true
-intro:
-  - title: "System Design Portfolio"
 feature_row0
   - excerpt: "I am a game system designer residing in Sweden and studying at Futuregames, Stockholm. Previous to design, I also worked in localization and release management for 4 years at Sega, Oizumi Amuzio, and as a freelancer. My past roles have helped me learn a great deal about how games are made, and I leverage that experience while designing and working with others."
 feature_row1:
@@ -17,8 +15,6 @@ feature_row1:
     btn_label: "Read More"
     btn_class: "btn--info"
 ---
-
-{% include feature_row id="intro" type="center" %}
 
 {% include feature_row id="feature_row0" type="left"%}
 
