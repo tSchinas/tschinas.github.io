@@ -1,4 +1,5 @@
 ---
+title: Portfolio
 layout: single
 classes: wide
 permalink: /systemsportfolio/
