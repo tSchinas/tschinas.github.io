@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "default"
 locale                   : "en-US"
 title                    : "Thomas Schinas"
 title_separator          : " "
-subtitle                 : "Home" # site tagline that appears below site title in masthead
+subtitle                 : " " # site tagline that appears below site title in masthead
 name                     : "Thomas Schinas"
 description              : "test description"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -105,15 +105,15 @@ author:
   name             : "Thomas Schinas"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "<about me>"
-  location         : "Sweden"
+  location         : "Stockholm, Sweden"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:tomschinas@gmail.com"
-    - label: "Website"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://www.linkedin.com/in/thomas-schinas-84353787/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
