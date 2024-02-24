@@ -1,6 +1,7 @@
 ---
 title: "System Design Portfolio"
 layout: single
+classes: wide
 permalink: /systemsportfolio/
 author_profile: true
 intro: 
@@ -15,6 +16,6 @@ feature_row1:
     btn_class: "btn--info"
 ---
 
-{% include feature_row id="intro" type="right" %}
+{% include feature_row id="intro" type="left" %}
 
 {% include feature_row id="feature_row1" type="right"%}
