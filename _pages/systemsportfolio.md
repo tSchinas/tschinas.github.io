@@ -2,6 +2,7 @@
 title: "System Design Portfolio"
 layout: single
 permalink: /systemsportfolio/
+author_profile: true
 intro: 
   - title: "<b>Thomas Schinas, System Designer</b>"
     excerpt: |
