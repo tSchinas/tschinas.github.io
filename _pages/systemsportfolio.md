@@ -11,6 +11,7 @@ feature_row1:
     url: "summitsprint"
     btn_label: "Read More"
     btn_class: "btn--info"
+permalink: /systemsportfolio/
 ---
 <p>I am a game system designer residing in Sweden and studying at Futuregames, Stockholm. Previous to design, I also worked in localization and release management for 4 years at Sega, Oizumi Amuzio, and as a freelancer. My past roles have helped me learn a great deal about how games are made, and I leverage that experience while designing and working with others.</p>
 
