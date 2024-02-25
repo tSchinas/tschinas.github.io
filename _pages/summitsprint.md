@@ -22,7 +22,7 @@ feature_row2:
 
 {% include feature_row id="feature_row0" type="left" %}
 <div>
-{% include feature_row id="feature_row1" type="right" %}
+{% include feature_row_custom1 id="feature_row1" type="right" %}
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 </div>
 {% include feature_row id="feature_row2" type="left" %}
