@@ -74,7 +74,7 @@
 
 .archive__item-excerpt {
   margin-top: 0;
-  font-size: $type-size-6;
+  font-size: 1.6rem;
 
   & + p {
     text-indent: 0;
@@ -251,7 +251,7 @@
 .feature__item {
   position: relative;
   margin-bottom: 2em;
-  font-size: 1.3em;
+  font-size: 1.125em;
 
   @include breakpoint($small) {
     float: left;
