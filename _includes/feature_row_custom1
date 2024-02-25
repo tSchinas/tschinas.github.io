@@ -28,9 +28,7 @@
             <div class="archive__item-excerpt">
               {{ f.excerpt | markdownify }}
               {% if f.paragraph %}
-              <p class="wide">
                 {{ f.paragraph | markdownify }}
-              </p>
               {% endif %}
             </div>
           {% endif %}
