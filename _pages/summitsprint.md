@@ -2,6 +2,8 @@
 title: Summit Sprint
 layout: splash
 permalink: /summitsprint/
+toc: true
+author_info: true
 intro:
   - image_path: /assets/images/Summit_Sprint_Logo.png
     excerpt: "Summit Sprint is an original touch input climbing game developed in Unity<br/>as part of a large, interdisciplinary project completed at Futuregames in conjunction with [Turborilla](https://www.turborilla.com/ ), who supplied a request for proposal."
