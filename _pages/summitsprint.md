@@ -22,7 +22,7 @@ feature_row2:
 
 {% include feature_row id="feature_row0" type="left" %}
 
-<h2 align=center>Climbing = Stamina Bar</h2>
+<h2 align=center>Climbing \= Stamina Bar</h2>
 
 <p align=justify>Climbing equals stamina bar. Games have done this for years, unquestioning. And so we too landed on stamina as a means to prevent them from invalidating our core gameplay—balancing between manipulating the character's hands and ability to jump.<br/><br/>The <b>original</b> approach was simplistic: stamina steadily drains, jumps consume a chunk of stamina, and stamina 0 = loss. I wasn't happy with this because I felt it would encourage players to simply input moves as quickly as possible without thinking, and it could discourage them from ever using the jump. I took similar issue with the <b>second</b> approach, in which stamina decreased at a fixed rate while either hand was searching for a handhold. This also forced players to input moves quickly in the name of stamina efficiency, and ran the risk of punishing skilled players for split-second innovations in play. I also felt it would be difficult to onboard players in this approach.<br/><br/></p>
 
