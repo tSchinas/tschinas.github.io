@@ -17,6 +17,13 @@ gallery0:
     image_path: /assets/images/Summit_Sprint_Icon.png
   - url: /assets/images/Summit_Sprint_Icon.png
     image_path: /assets/images/Summit_Sprint_Icon.png
+gallery1:
+  - url: /assets/images/Summit_Sprint_Icon.png
+    image_path: /assets/images/Summit_Sprint_Icon.png
+  - url: /assets/images/Summit_Sprint_Icon.png
+    image_path: /assets/images/Summit_Sprint_Icon.png
+  - url: /assets/images/Summit_Sprint_Icon.png
+    image_path: /assets/images/Summit_Sprint_Icon.png
 feature_row2:
   - image_path: /assets/images/summitsprint2.png
     excerpt: "lorem ipsum"
@@ -32,5 +39,6 @@ feature_row2:
 {% include gallery id="gallery0" caption="Placeholder gallery of 3 images with placeholder caption." %}
 
 <h2 align=center>Chalking Up the Stamina System</h2>
-<p align=justify>One morning, I awoke at 05:45, fifteen minutes before my alarm went off. I had watched the documentary <a href="https://films.nationalgeographic.com/free-solo">Free Solo</a> and, while I didn't particularly enjoy my time spent watching it, I found myself thinking about the tools free solo climbers take with them on a climb—their climbing shoes and climbing chalk. I mused to myself how nice the stamina system would be if we reimagined it as Chalk, a resource to manage that didn't mean instantly losing when you ran out of it, a way to address my gripe and bring it closer to the source inspiration. "Ah, well... It's just a dream..."<br/><br/>No! I grabbed my phone and wrote my thoughts down so I wouldn't forget. A few hours later, I pitched the idea to the other designers, certain that my bewildered dream thoughts couldn't actually be a good idea. But everyone I talked to about it was thrilled with the concept. I pitched once again to the full team, informing them of the new scope of the proposal and the impact it would have on each department.<br/><br/>With the team's approval, the new Chalk system was born. Now, instead of causing an immediate loss, the player is still able to make moves. But hanging on for too long causes them to fall and lose. This allows them to continue playing, potentially picking up more chalk in the level to save themselves. This is a similar concept to, for example, when in combat a player drops to 1 HP after receiving a massive attack, giving them the opportunity to overcome adversity and express their skill.</p>
+<p align=justify>One morning, I awoke at 05:45, fifteen minutes before my alarm went off. I had watched the documentary <a href="https://films.nationalgeographic.com/free-solo">Free Solo</a> and, while I didn't particularly enjoy my time spent watching it, I found myself thinking about the tools free solo climbers take with them on a climb—their climbing shoes and climbing chalk. I mused to myself how nice the stamina system would be if we reimagined it as Chalk, a resource to manage that didn't mean instantly losing when you ran out of it, a way to address my gripe and bring it closer to the source inspiration. "Ah, well... It's just a dream..."<br/><br/>No! I grabbed my phone and wrote my thoughts down so I wouldn't forget. A few hours later, I pitched the idea to the other designers, certain that my bewildered dream thoughts couldn't actually be a good idea. But everyone I talked to about it was thrilled with the concept. I pitched once again to the full team, informing them of the new scope of the proposal and the impact it would have on each department.<br/><br/>With the team's approval, the Chalk system was born. Now, instead of causing an immediate loss, the player is still able to make moves. Hanging on for too, however, long causes them to fall and lose. This allows them to continue playing, potentially picking up more chalk in the level to save themselves. This is a similar concept to, for example, when in combat a player drops to 1 HP after receiving a massive attack, giving them the opportunity to overcome adversity and express their skill.</p>
+{% include gallery id="gallery1" caption="Placeholder gallery of 3 images with placeholder caption." %}
 {% include feature_row id="feature_row2" type="left" %}
