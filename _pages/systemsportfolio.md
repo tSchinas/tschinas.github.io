@@ -7,7 +7,7 @@ feature_row1:
   - image_path: /assets/images/Summit_Sprint_Icon.png
     alt: "Summit Sprint"
     title: "Summit Sprint"
-    excerpt: "Summit Sprint, an original touch input climbing game developed in Unity."
+    excerpt: "Summit Sprint, an original touch input climbing game developed in Unity at Futuregames in collaboration with [Turborilla](https://www.turborilla.com/ )."
     url: "summitsprint"
     btn_label: "Read More"
     btn_class: "btn--info"
