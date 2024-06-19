@@ -9,4 +9,4 @@ main:
     url: "/about/"
   - title: "✉"
     url: "mailto:tomschinas@gmail.com"
-    description: "Send an Email"
+    description: "Send An Email"
