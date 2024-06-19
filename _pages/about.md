@@ -11,11 +11,11 @@ defaults:
 intro:
   - title: "About Me"
     excerpt: |
-      Who is Thomas Schinas?
-      A former release manager and localization producer turned game designer, currently studying at Futuregames in Stockholm.
-      Best game design?
-      Into the Breach from Subset Games
-      Best animal?
+      Who is Thomas Schinas?<br><br>
+      A former release manager and localization producer turned game designer, currently studying at Futuregames in Stockholm.<br><br>
+      Best game design?<br><br>
+      Into the Breach from Subset Games<br><br>
+      Best animal?<br><br>
       Dog!
 ---
 {% include feature_row id="intro" type="center" %}
