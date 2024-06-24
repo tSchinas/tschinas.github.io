@@ -14,31 +14,9 @@ layout: default
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">{% endif %}
     {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date_to_xmlschema }}">{% endif %}
-<div class="wrap">
-  {% if page.desktop_image or page.mobile_image %}
-    <div id="image-container">
-      <img id="desktop-image" class="post-image" src="{{ page.desktop_image }}" style="display:none;">
-      <img id="mobile-image" class="post-image" src="{{ page.mobile_image }}" style="display:none;">
-    </div>
-  {% endif %}
-</div>
+
     <section class="page__content" itemprop="text">
       {{ content }}
     </section>
   </article>
 </div>
-
-<script>
-    // JavaScript to detect device type and display the appropriate image
-    document.addEventListener("DOMContentLoaded", function() {
-      var desktopImage = document.getElementById('desktop-image');
-      var mobileImage = document.getElementById('mobile-image');
-      if (window.innerWidth <= 768) {
-        // Mobile device
-        mobileImage.style.display = 'block';
-      } else {
-        // Desktop device
-        desktopImage.style.display = 'block';
-      }
-    });
-  </script>
