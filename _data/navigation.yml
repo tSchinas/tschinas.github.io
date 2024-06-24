@@ -2,7 +2,7 @@
 # urls that are permalinks from YAML front matter in md must be enclosed in quotes
 main:
   - title: "Game Design"
-    url: ""
+    url: "/"
   - title: "Other Projects"
     url: "/otherprojects/"
   - title: "About"
