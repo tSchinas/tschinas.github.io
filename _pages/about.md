@@ -12,4 +12,4 @@ intro:
       Game design to me combines two of my greatest professional loves: complex problem solving and careful planning. Cooperating with people from all over the world to serve up joy, or to help reconcile, or to move to tears—all in one single medium... What could be better than that?<br><br>
       Outside of games, I spend time playing or listening to music, baking, and studying new languages.
 ---
-{% include feature_row id="intro" type="left" %}
+{% include feature_row id="intro" %}
