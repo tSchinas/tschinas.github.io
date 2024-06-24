@@ -4,10 +4,7 @@ permalink: /summitsprint/
 author_profile: true
 classes: wide
 intro:
-  - video:
-      id: "EijwO7ZWtZg"
-      provider: youtube
-    excerpt: "Summit Sprint is an original touch input climbing game developed by a 16-person team in Unity as part of an interdisciplinary project completed at Futuregames in conjunction with [Turborilla](https://www.turborilla.com/ ), who supplied a request for proposal."
+  - excerpt: "Summit Sprint is an original touch input climbing game developed by a 16-person team in Unity as part of an interdisciplinary project completed at Futuregames in conjunction with [Turborilla](https://www.turborilla.com/ ), who supplied a request for proposal."
 feature_row0:
   - image_path: /assets/images/summitsprint0.jpg
     title: "<b>System Design</b>"
@@ -30,6 +27,7 @@ gallery2:
   - url: /assets/images/summitsprint2.png
     image_path: /assets/images/summitsprint2.png
 ---
+{% include video id="EijwO7ZWtZg" provider="youtube" %}
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row id="feature_row0" type="left" %}
