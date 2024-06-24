@@ -28,9 +28,17 @@ gallery2:
 
 {% include feature_row id="feature_row0" type="left" %}
 
-<h2 align=center>Climbing = Stamina Bar</h2>
+<h2 align=center>Stamina</h2>
+<p align=justify>The game had to be <b>easy to pick up</b> but <b>difficult to master</b>. This had to be reflected in stamina, our main win/loss mechanic.</p>
 
-<p align=justify>The initial iteration of stamina was simplistic: stamina steadily drains, jumps consume a chunk of stamina, and stamina 0 = loss. I wasn't happy with this because I felt it would encourage players to simply input moves as quickly as possible without thinking, and it could discourage them from ever using the jump.<br/><br/>I took similar issue with the second iteration, in which stamina decreased at a fixed rate while either hand was searching for a handhold. This also forced players to input moves quickly in the name of stamina efficiency, and ran the risk of punishing skilled players for split-second innovations in play. I also felt it would be difficult to onboard players in this approach.<br/><br/>In the third iteration, stamina would decrease at a fixed cost with each successful hand move. We decided this would be the easiest to teach and the easiest to manage, striking a balance between "extreme sport", as was necessary for the RFP, and puzzle, rewarding the player for efficiency and knowledge of a level when replaying for a faster completion time. However, with player skill standing as one of our core pillars, the idea of 0 stamina resulting in an immediate loss still had one glaring issue: at a certain point, a loss becomes a foregone conclusion.</p>
+<h2 align=center>Iteration 1</h2>
+<p align=justify>The initial iteration of stamina was simplistic: stamina steadily drains, jumps consume a chunk of stamina, and stamina 0 = loss. I wasn't happy with this because I felt it would encourage players to simply input moves as quickly as possible without thinking, and it could discourage them from ever using the jump.</p>
+
+<h2 align=center>Iteration 2</h2>
+<p align=justify>I took similar issue with the second iteration, in which stamina decreased at a fixed rate while either hand was searching for a handhold. This also forced players to input moves quickly in the name of stamina efficiency, and ran the risk of punishing skilled players for split-second innovations in play. I also felt it would be difficult to onboard players in this approach.</p>
+
+<h2 align=center>Iteration 3</h2>
+<p align=justify>In the third iteration, stamina would decrease at a fixed cost with each successful hand move. We decided this would be the easiest to teach and the easiest to manage, striking a balance between "extreme sport", as was necessary for the RFP, and puzzle, rewarding the player for efficiency and knowledge of a level when replaying for a faster completion time. However, with player skill standing as one of our core pillars, the idea of 0 stamina resulting in an immediate loss still had one glaring issue: at a certain point, a loss becomes a foregone conclusion.</p>
 
 {% include gallery id="gallery0" caption="An early version of the segmented chalk bar." %}
 
