@@ -7,6 +7,7 @@ intro:
   - excerpt: "Summit Sprint is an original, touch-input climbing game developed by a 16-person team in Unity as part of an interdisciplinary project completed at Futuregames in conjunction with [Turborilla](https://www.turborilla.com/ ), who supplied a request for proposal. Our goal was to create a game that would fit with Turborilla's existing catalogue of extreme sports titles."
 feature_row0:
   - image_path: /assets/images/summitsprint0.jpg
+    image_path: /assets/images/summitsprint2.jpg
     title: "<b>System Design</b>"
     excerpt: "<p align=justify>I took on the role of system designer on this project. After the team had decided which mechanics to include in the game, I began designing the underlying systems that would support those mechanics. The main system I will highlight here is the \"stamina\" system, which eventually would come to be called the Chalk system.</p>"
 gallery0:
