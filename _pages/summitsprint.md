@@ -2,7 +2,6 @@
 layout: single
 permalink: /summitsprint/
 author_profile: true
-classes: wide
 intro:
   - excerpt: "Summit Sprint is an original, touch-input climbing game developed by a 16-person team in Unity as part of an interdisciplinary project completed at Futuregames in conjunction with [Turborilla](https://www.turborilla.com/ ), who supplied a request for proposal. Our goal was to create a game that would fit with Turborilla's existing catalogue of extreme sports titles."
 feature_row0:
