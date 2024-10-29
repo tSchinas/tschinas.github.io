@@ -7,7 +7,7 @@ intro:
 feature_row0:
   - image_path: /assets/images/summitsprint0.jpg
     title: "<b>System Design</b>"
-    excerpt: "<p align=justify>I took on the role of system designer on this project. After the team had decided which mechanics to include in the game, I began designing the underlying systems that would support those mechanics. The main system I will highlight here is the \"stamina\" system, which eventually would come to be called the chalk system.</p>"
+    excerpt: "<p>I took on the role of system designer on this project. After the team had decided which mechanics to include in the game, I began designing the underlying systems that would support those mechanics. The main system I will highlight here is the \"stamina\" system, which eventually would come to be called the chalk system.</p>"
 gallery0:
   - url: /assets/images/SummitSprint_Chalkbags.png
     image_path: /assets/images/SummitSprint_Chalkbags.png
@@ -25,7 +25,7 @@ gallery2:
 {% include video id="EijwO7ZWtZg" provider="youtube" %}
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="feature_row0" type="left" %}
+{% include feature_row id="feature_row0" type="left" image_size="300" %}
 
 <h2 align=center>Stamina</h2>
 <p align=justify>The game had to be <b>easy to pick up</b> but <b>difficult to master</b>. This had to be reflected in stamina, our main win/loss mechanic.</p>
