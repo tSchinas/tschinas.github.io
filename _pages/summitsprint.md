@@ -25,7 +25,7 @@ gallery2:
 {% include video id="EijwO7ZWtZg" provider="youtube" %}
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="feature_row0" type="left" image_size=20% %}
+{% include feature_row id="feature_row0" type="left" image_size="20%" %}
 
 <h2 align=center>Stamina</h2>
 <p align=justify>The game had to be <b>easy to pick up</b> but <b>difficult to master</b>. This had to be reflected in stamina, our main win/loss mechanic.</p>
