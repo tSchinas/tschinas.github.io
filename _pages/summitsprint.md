@@ -31,7 +31,8 @@ gallery2:
 <p align=justify>The game had to be <b>easy to pick up</b> but <b>difficult to master</b>. This had to be reflected in stamina, our main win/loss mechanic.</p>
 
 <h2 align=center>Iterating on Stamina</h2>
-<p align=justify>We wanted to focus on player skill while The initial 3 versions of the stamina system, however, left much to be desired. The most glaring issue I wanted to solve was that after a certain point, a loss became a foregone conclusion. This undermined our desire to emphasize skill.</p>
+<p align=justify>We wanted to focus on player skill while The initial 3 versions of the stamina system, however, left much to be desired. The most glaring issue I wanted to solve was that after a certain point, a loss became a foregone conclusion. This undermined our desire to emphasize skill.
+<p align=right><img src="/assets/images/summitsprint_iteration1.png" alt><img src="/assets/images/summitsprint_iteration2.png" alt><img src="/assets/images/summitsprint_iteration3.png" alt></p></p>
 
 {% include gallery id="gallery1" caption="Initial iterations of the stamina system." %}
 
