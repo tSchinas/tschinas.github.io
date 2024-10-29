@@ -324,9 +324,7 @@
     @include breakpoint($small) {
       .archive__item-teaser {
         float: left;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
+        width: span(5 of 12);
       }
 
       .archive__item-body {
